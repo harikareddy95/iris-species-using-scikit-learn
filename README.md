@@ -1,0 +1,1 @@
+This is a simple project which uses knn(k-nearest neighbor) classifer from scikit library to classify the different species of iris flowers based on its four features(sepal length and width; petal length and width). 
